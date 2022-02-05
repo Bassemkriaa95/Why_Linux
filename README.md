@@ -1,6 +1,6 @@
 # Why_Linux
 
-### !/bin/bash
+#!/bin/bash
 
 ### 1. High security
 
